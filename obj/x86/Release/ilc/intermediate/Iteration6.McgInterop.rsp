@@ -1,0 +1,39 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop.dll"
+/pdb:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\System.Private.Iteration6.Generated.dll"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\Adapters.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\AssemblyInfo.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\Data.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\Helpers.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\ImplTypes.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\PInvoke.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\SafeTypes.g.cs"
+"F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Release\ilc\intermediate\Iteration6.McgInterop\SharedStubs.g.cs"

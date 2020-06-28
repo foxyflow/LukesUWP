@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="Iteration6.BlankPage4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Iteration6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,0,-183,-302">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/Italian.png"/>
+        </Grid.Background>
+        <Button Content="English" Height="265" Margin="0,185,0,0" VerticalAlignment="Top" Width="585" FontSize="100" HorizontalAlignment="Center">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF7EDED" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="" Height="148" Margin="1644,44,0,0" VerticalAlignment="Top" Width="246" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Italiano" Height="265" Margin="0,455,0,0" Width="585" FontSize="100" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF93DED4" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="DLC Locked" Height="265" Margin="0,720,0,0" VerticalAlignment="Top" Width="585" FontSize="80" Click="Button_Click_1" FontWeight="Bold" Opacity="0.2" AllowDrop="True" ClickMode="Release" Foreground="#FF55020E" FocusVisualPrimaryBrush="#FF1E65CD" BorderBrush="#FF38CB20" FontFamily="Courier New" HorizontalAlignment="Center">
+            <Button.FocusVisualSecondaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFE0A321" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.FocusVisualSecondaryBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/unlocked.gif" Stretch="Fill"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

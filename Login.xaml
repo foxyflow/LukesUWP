@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Iteration6.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Iteration6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RequestedTheme="Dark" Width="1920" Opacity="0.8">
+        <Grid.FocusVisualPrimaryBrush>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF1D328D" Offset="1"/>
+                <GradientStop Color="#FF0A1234" Offset="0.375"/>
+            </LinearGradientBrush>
+        </Grid.FocusVisualPrimaryBrush>
+        <TextBox HorizontalAlignment="Left" Height="560" Margin="630,0,0,0" Text="Login Here: " TextWrapping="Wrap" VerticalAlignment="Center" Width="716" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="99" Margin="807,363,0,0" Text="Username here&#xD;&#xA;&#xD;&#xA;Or Press Ctrl Alt Delete togther to Exit" TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+        <TextBox HorizontalAlignment="Left" Height="149" Margin="807,531,0,0" Text="Password and confirm here" TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="812,623,0,0" VerticalAlignment="Top" Height="51" Width="312"/>
+        <Popup/>
+        <PasswordBox HorizontalAlignment="Left" Margin="812,567,0,0" VerticalAlignment="Top" Height="51" Width="312"/>
+        <TextBlock HorizontalAlignment="Left" Height="139" Margin="694,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="610" FontSize="40" FontFamily="Courier New" SelectionHighlightColor="#FF8F6C3C">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF992020" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush><Run Text="Login:"/><LineBreak/><Run/><LineBreak/><Run Text="U"/><Run Text="se the bought code "/></TextBlock>
+        <RadioButton Content="I am not a robot&#xD;&#xA;I have read the T&amp;C" Margin="807,714,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Checked="RadioButton_Checked">
+            <RadioButton.RenderTransform>
+                <CompositeTransform Rotation="-0.121"/>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <Button x:Name="___LoginButton__Copy" Content="To Home " Height="63" Margin="968,695,0,0" VerticalAlignment="Top" Width="136" Click="Button_Click" RenderTransformOrigin="0.5,0.5" Foreground="#FF26E41C">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF626D9E" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

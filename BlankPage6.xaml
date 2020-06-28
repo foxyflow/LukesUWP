@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Iteration6.BlankPage6"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Iteration6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button Content="Save Slot 2" Height="197" Margin="485,873,0,0" VerticalAlignment="Top" Width="422" Click="Button_Click"/>
+        <Button Content="Seat's taken" Height="197" Margin="0,873,0,0" VerticalAlignment="Top" Width="422" Click="Button_Click" RenderTransformOrigin="0.797,0.249"/>
+        <Button Content="Save Slot 4" Height="197" Margin="1488,873,0,0" VerticalAlignment="Top" Width="422" Click="Button_Click"/>
+        <Button Content="Save Slot 3" Height="197" Margin="996,873,0,0" VerticalAlignment="Top" Width="422" Click="Button_Click"/>
+        <Button Content="" Height="101" Margin="1699,42,0,0" VerticalAlignment="Top" Width="195" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <Ellipse HorizontalAlignment="Left" Height="29" Margin="22,887,0,0" Stroke="Black" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="/Assets/heart.png"/>
+            </Ellipse.Fill>
+            <Ellipse.RenderTransform>
+                <CompositeTransform Rotation="5.761"/>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Canvas Opacity="0.4" Margin="9,253,0,293" HorizontalAlignment="Left" Width="1105" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Canvas.RenderTransform>
+                <CompositeTransform Rotation="-3.886" ScaleX="1" ScaleY="1" SkewX="19.282" SkewY="0" TranslateX="93.37" TranslateY="-6.342"/>
+            </Canvas.RenderTransform>
+            <Canvas.Background>
+                <ImageBrush ImageSource="/Assets/SplashScreen.scale-200.png"/>
+            </Canvas.Background>
+        </Canvas>
+        <TextBlock HorizontalAlignment="Left" Margin="153,76,0,0" Text="Save Slots" TextWrapping="Wrap" VerticalAlignment="Top" Height="150" Width="446" RequestedTheme="Dark" FontSize="100">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF1F5564" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush>
+        </TextBlock>
+
+    </Grid>
+</Page>

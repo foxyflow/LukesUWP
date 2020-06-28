@@ -1,0 +1,459 @@
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Iteration6.xr.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\resources.pri
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Core\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Core\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Iteration6.build.appxrecipe
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\System.Runtime.dll
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Iteration6.csprojAssemblyReference.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\App.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\App.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\MainPage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\MainPage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\App.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\MainPage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\XamlSaveStateFile.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Iteration6.csproj.CopyComplete
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ResourceHandlingTask.state
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\priconfig.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\priconfig.xml.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\filtered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\excluded.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\resources.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\resources.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\pri.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\pri.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\qualifiers.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\qualifiers.txt.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ProjectArchitectures.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Login.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Login.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Login.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\bin\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ToGamePage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ToGamePage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ToGamePage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\ClassWorkHere\Iteration6\obj\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Iteration6.xr.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\resources.pri
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Core\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Core\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Iteration6.build.appxrecipe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\System.Runtime.dll
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\App.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\App.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ToGamePage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ToGamePage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Login.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Login.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\MainPage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\MainPage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\App.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ToGamePage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Login.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\MainPage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\XamlSaveStateFile.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Iteration6.csproj.CopyComplete
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ResourceHandlingTask.state
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\priconfig.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\priconfig.xml.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\filtered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\excluded.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\resources.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\resources.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\pri.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\pri.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\qualifiers.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\qualifiers.txt.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\ProjectArchitectures.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage3.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage3.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage3.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage4.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage4.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage4.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage5.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage5.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage5.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage6.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage6.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage6.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\bin\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage7.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage7.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage7.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Moodboard.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Iteration6.xr.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\resources.pri
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Core\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Core\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Iteration6.build.appxrecipe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\System.Runtime.dll
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\App.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\App.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage3.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage3.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage4.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage4.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage5.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage5.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage6.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage6.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage7.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage7.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Moodboard.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Moodboard.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ToGamePage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ToGamePage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Login.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Login.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\MainPage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\MainPage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\App.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage3.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage4.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage5.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage6.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage7.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Moodboard.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ToGamePage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Login.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\MainPage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Moodboard.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\XamlSaveStateFile.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Iteration6.csproj.CopyComplete
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ResourceHandlingTask.state
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\priconfig.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\priconfig.xml.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\filtered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\excluded.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\resources.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\resources.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\pri.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\pri.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\qualifiers.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\qualifiers.txt.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\ProjectArchitectures.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020 - Copy\Iteration6\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\LukeFox30011364Assign1COMP6215S12020\Iteration6\obj\x86\Debug\Iteration6.csprojAssemblyReference.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Iteration6.xr.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\resources.pri
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Core\AppxManifest.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Core\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Iteration6.build.appxrecipe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\System.Runtime.dll
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Iteration6.csprojAssemblyReference.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\App.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\App.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage3.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage3.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage4.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage4.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage5.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage5.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage6.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage6.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage7.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage7.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ToGamePage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ToGamePage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Login.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Login.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\MainPage.g.i.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\MainPage.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\App.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage3.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage4.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage5.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage6.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage7.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ToGamePage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Login.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\MainPage.xaml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\App.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage3.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage4.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage5.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage6.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\BlankPage7.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ToGamePage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Login.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\MainPage.xbf
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\XamlSaveStateFile.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Iteration6.csproj.CopyComplete
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Iteration6.exe
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\Iteration6.pdb
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ResourceHandlingTask.state
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\priconfig.xml
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\priconfig.xml.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\filtered.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\excluded.layout.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\resources.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\resources.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\pri.resfiles
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\pri.resfiles.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\qualifiers.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\qualifiers.txt.intermediate
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\ProjectArchitectures.txt
+F:\2020SchoolWork\AssignmentsPaulsClass\Assignments\Iteration7\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\App.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\BlankPage3.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\BlankPage4.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\BlankPage5.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\BlankPage6.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\BlankPage7.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\ToGamePage.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Login.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\MainPage.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Iteration6.xr.xml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Iteration6.exe
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Iteration6.pdb
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\resources.pri
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\AppxManifest.xml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Core\Iteration6.exe
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Iteration6.build.appxrecipe
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\System.Runtime.dll
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Iteration6.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\App.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\App.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage3.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage3.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage4.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage4.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage5.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage5.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage6.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage6.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage7.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage7.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ToGamePage.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ToGamePage.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Login.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Login.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\MainPage.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\App.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage3.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage4.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage5.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage6.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage7.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ToGamePage.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Login.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\MainPage.xaml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\App.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage3.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage4.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage5.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage6.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\BlankPage7.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ToGamePage.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Login.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\MainPage.xbf
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Iteration6.csproj.CopyComplete
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Iteration6.exe
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\Iteration6.pdb
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\priconfig.xml
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\resources.resfiles
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\pri.resfiles
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\qualifiers.txt
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Luke\Desktop\Testing Zip\Iteration7\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\App.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\BlankPage3.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\BlankPage4.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\BlankPage5.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\BlankPage6.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\BlankPage7.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\ToGamePage.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Login.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\MainPage.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Iteration6.xr.xml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Iteration6.exe
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Iteration6.pdb
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\resources.pri
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\AppxManifest.xml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Core\Iteration6.exe
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Iteration6.build.appxrecipe
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\System.Runtime.dll
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Iteration6.csprojAssemblyReference.cache
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\App.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\App.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage3.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage3.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage4.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage4.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage5.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage5.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage6.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage6.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage7.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage7.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ToGamePage.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ToGamePage.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Login.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Login.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\MainPage.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\App.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage3.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage4.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage5.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage6.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage7.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ToGamePage.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Login.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\MainPage.xaml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\App.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage3.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage4.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage5.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage6.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\BlankPage7.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ToGamePage.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Login.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\MainPage.xbf
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Iteration6.csproj.CoreCompileInputs.cache
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Iteration6.csproj.CopyComplete
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Iteration6.exe
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\Iteration6.pdb
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\priconfig.xml
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\resources.resfiles
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\pri.resfiles
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\qualifiers.txt
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Luke\3D Objects\LLLapp\Iteration7\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884842160000000.json

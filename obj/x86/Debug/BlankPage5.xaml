@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="Iteration6.BlankPage5"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Iteration6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RenderTransformOrigin="0.509,0.538" RequestedTheme="Dark">
+        <ToggleButton x:ConnectionId='2'                          Margin="0 5 0 0">Mute</ToggleButton>
+
+        <Button x:ConnectionId='3' Content="Back" Height="93" Margin="1776,10,0,0" VerticalAlignment="Top" Width="134"                        RenderTransformOrigin="6.039,0.172">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <ToggleSwitch Header="ToggleSwitch" Height="62" Margin="324,752,0,0" VerticalAlignment="Top" Width="142" RenderTransformOrigin="-0.394,0.161"/>
+        <ToggleSwitch Header="ToggleSwitch" Height="62" Margin="324,604,0,0" VerticalAlignment="Top" Width="142"/>
+        <ColorPicker HorizontalAlignment="Left" Margin="1143,271,0,0" VerticalAlignment="Top" Width="392" Height="593"/>
+        <SplitView HorizontalAlignment="Left" Height="240" Margin="1340,396,0,0" VerticalAlignment="Top" Width="331">
+            <SplitView.Pane>
+                <Grid/>
+            </SplitView.Pane>
+        </SplitView>
+        <StackPanel x:ConnectionId='4' x:Name = "stackPanel1">
+            <ToggleButton x:ConnectionId='10'                          Content="Mute"/>
+            <Slider x:ConnectionId='11' x:Name="volumeSlider" HorizontalAlignment="Left" Margin="214,255,0,0" VerticalAlignment="Top" Width="703" RenderTransformOrigin="0.45,0.563"
+         Header="Volume" 
+                                           Value="0.75" Maximum="1"
+        />
+        </StackPanel>
+        <TextBlock x:ConnectionId='5' HorizontalAlignment="Left" Height="26" Margin="1143,228,0,0" Text="Colour Theme" TextWrapping="Wrap" VerticalAlignment="Top" Width="174"                                                />
+        <TextBlock HorizontalAlignment="Left" Margin="106,169,0,0" Text="Brightness" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="98,445,0,0" Text="Sound" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="88,626,0,0" Text="Surround Sound" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="88,752,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="66" Width="156"><Run Text="4k Graphics  at 60fps"/><LineBreak/><Run Text="(Off is 1080p 120fps -- you"/><Run Text="'"/><Run Text="r"/><Run Text="e"/><Run Text=" welcome)"/></TextBlock>
+        <CheckBox Content="Dark Theme" Margin="1325,221,0,0" VerticalAlignment="Top" Width="167"/>
+        <MediaTransportControls HorizontalAlignment="Left" Margin="230,433,0,0" VerticalAlignment="Top" Width="703"/>
+        <TextBlock HorizontalAlignment="Left" Height="105" Margin="559,48,0,0" Text="Control Panel" TextWrapping="Wrap" VerticalAlignment="Top" Width="663" FontSize="80" FontFamily="Courier New" FontWeight="Bold"/>
+        <Button x:ConnectionId='6' x:Name="ClickMeButton" Content="The Words to Learn&#xD;&#xA;" Margin="899,626,0,15" VerticalAlignment="Stretch" Width="140"                              />
+        <TextBlock x:ConnectionId='7' x:Name="ResultTextBlock" HorizontalAlignment="Left" Margin="508,799,0,0" Text="Click to reveal all 5 words" TextWrapping="Wrap" VerticalAlignment="Top" Height="180" Width="392"/>
+        <Button x:ConnectionId='8' x:Name="SettingButton" Content="You found a hidden Clue.&#xD;&#xA;You shouldn't be here." Margin="159,875,0,0" VerticalAlignment="Top" Height="47" Width="193"                            />
+        <TextBlock x:ConnectionId='9' x:Name="TextBlockSettings" HorizontalAlignment="Left" Margin="162,927,0,0" Text="Clue" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="140"/>
+
+    </Grid>
+</Page>
+

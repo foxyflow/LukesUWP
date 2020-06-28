@@ -1,0 +1,87 @@
+﻿<Page
+    x:Class="Iteration6.BlankPage7"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Iteration6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RenderTransformOrigin="0.459,0.495" HorizontalAlignment="Stretch" RequestedTheme="Dark">
+        <Button Content="Beginner Unlocked" Height="258" Margin="69,238,0,0" VerticalAlignment="Top" Width="276">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/CaptureEasy.PNG"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Average  locked" Height="258" Margin="0,262,0,0" VerticalAlignment="Top" Width="263" HorizontalAlignment="Center">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/CaptureMaster.PNG"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Master  locked" Height="258" Margin="766,262,0,0" VerticalAlignment="Top" Width="271">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/CaptureFemaleSing.PNG"/>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="902,126,0,0" Text="Levels" TextWrapping="Wrap" VerticalAlignment="Top" Height="111" Width="244" FontSize="40" FontFamily="Courier New" FontWeight="Bold"/>
+        <Button Content="" Height="138" Margin="1637,23,0,0" VerticalAlignment="Top" Width="249" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Height="71" Margin="287,352,0,0" Text="Easy" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" FontSize="30" SelectionChanged="TextBlock_SelectionChanged">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFD35C5C" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="71" Margin="641,344,0,0" Text="Average&#x9;" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" FontSize="30">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFD35C5C" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="71" Margin="1029,344,0,0" Text="Master" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" FontSize="30">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFD35C5C" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush>
+        </TextBlock>
+        <Button Content="I'm now fluent as a first language" Height="258" Margin="1046,250,0,0" VerticalAlignment="Top" Width="270">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/CaptureSkull.PNG"/>
+            </Button.Background>
+            <Button.FocusVisualPrimaryBrush>
+                <ImageBrush ImageSource="/Assets/CaptureSkull.PNG"/>
+            </Button.FocusVisualPrimaryBrush>
+        </Button>
+        <Button Content="Beginner Unlocked " Height="206" Margin="69,514,0,0" VerticalAlignment="Top" Width="276">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/unlocked.gif"/>
+            </Button.Background>
+            <Button.FocusVisualPrimaryBrush>
+                <ImageBrush ImageSource="/Assets/unlocked.gif" Opacity="1"/>
+            </Button.FocusVisualPrimaryBrush>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Height="87" Margin="1394,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" FontSize="30" RenderTransformOrigin="0.433,-0.282">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFD35C5C" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.FocusVisualPrimaryBrush><Run Text="Legendary Professor "/><LineBreak/><Run/></TextBlock>
+        <Button Content="Locked " Height="206" Margin="287,514,0,0" VerticalAlignment="Top" Width="1029">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/locked_animated1.gif"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>
